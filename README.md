@@ -1,6 +1,18 @@
 # Turtlebot Demo
 Turtlebot demo scripts, commands and resources
 
+## Configure Environment Variables
+
+### Step 1: Set Environment Variables
+Set ```ROS_IP``` and ```ROS_MASTER_URI```
+```
+$ gedit ~/.bashrc
+```
+### Step 2: Source .bashrc
+```
+$ source ~/.bashrc
+```
+
 ## Autonomous Navigation
 
 ### Step 1: In Workstation
